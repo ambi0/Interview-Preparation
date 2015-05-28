@@ -1,3 +1,8 @@
+/*
+ * Calculates and returns the height of a binary tree.
+ *
+ */
+
 #include <iostream>
 #include <algorithm> //used for std::max
 
