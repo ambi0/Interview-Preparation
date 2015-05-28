@@ -23,8 +23,6 @@ int main(){
 	std::cout << "The height of the binary tree is " << getHeight(&root) << std::endl;
 }
 
-//test
-
 /*defined as the number of edges in a tree
  *from its root to its deepest leaf.
  */
